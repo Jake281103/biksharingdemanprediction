@@ -53,7 +53,7 @@ Install dependencies using: pip install -r requirements.txt
 
 🚀 Getting Started
 1. Clone this repository:
-git clone https://github.com/your-username/bike-sharing-hgbr.git
+git clone https://github.com/Jake281103/biksharingdemanprediction.git
 cd bike-sharing-hgbr
 
 2. Launch the Jupyter notebook:
